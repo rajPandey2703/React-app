@@ -1,0 +1,228 @@
+{
+    "access_token": "7J0YVcfXJsZ1EAR",
+    "model_version": "plant_id:5.0.0",
+    "custom_id": null,
+    "input": {
+        "latitude": 49.207,
+        "longitude": 16.608,
+        "similar_images": true,
+        "health": "only",
+        "images": [
+            "https://plant.id/media/imgs/53afa06fa8c34950b90b9b4b46e67c31.jpg"
+        ],
+        "datetime": "2025-05-11T11:04:31.544618+00:00"
+    },
+    "result": {
+        "disease": {
+            "suggestions": [
+                {
+                    "id": "765b06482c4e4ae9",
+                    "name": "nutrient deficiency",
+                    "probability": 0.8306,
+                    "similar_images": [
+                        {
+                            "id": "885edf9fc1ade50eb79500a198fd3d1916ed0079",
+                            "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/885/edf9fc1ade50eb79500a198fd3d1916ed0079.jpg",
+                            "license_name": "CC BY-NC-SA 4.0",
+                            "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                            "citation": "FlowerChecker s.r.o.",
+                            "similarity": 0.231,
+                            "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/885/edf9fc1ade50eb79500a198fd3d1916ed0079.small.jpg"
+                        },
+                        {
+                            "id": "5e3d0ac049daa62d58570f60c2ab2c477d27047f",
+                            "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/5e3/d0ac049daa62d58570f60c2ab2c477d27047f.jpg",
+                            "license_name": "CC BY-NC-SA 4.0",
+                            "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                            "citation": "FlowerChecker s.r.o.",
+                            "similarity": 0.219,
+                            "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/5e3/d0ac049daa62d58570f60c2ab2c477d27047f.small.jpg"
+                        }
+                    ],
+                    "details": {
+                        "language": "en",
+                        "entity_id": "765b06482c4e4ae9"
+                    }
+                },
+                {
+                    "id": "e5eed7f688efa59e",
+                    "name": "water excess or uneven watering",
+                    "probability": 0.6623,
+                    "similar_images": [
+                        {
+                            "id": "9f1befa0cd30c614acff2cae30445b2d9f8229b4",
+                            "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/9f1/befa0cd30c614acff2cae30445b2d9f8229b4.jpg",
+                            "license_name": "CC BY-NC-SA 4.0",
+                            "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                            "citation": "FlowerChecker s.r.o.",
+                            "similarity": 0.242,
+                            "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/9f1/befa0cd30c614acff2cae30445b2d9f8229b4.small.jpg"
+                        },
+                        {
+                            "id": "dcd74bfd7c81701f7500df48767e50581063cbd7",
+                            "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/dcd/74bfd7c81701f7500df48767e50581063cbd7.jpg",
+                            "license_name": "CC BY-NC-SA 4.0",
+                            "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                            "citation": "FlowerChecker s.r.o.",
+                            "similarity": 0.24,
+                            "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/dcd/74bfd7c81701f7500df48767e50581063cbd7.small.jpg"
+                        }
+                    ],
+                    "details": {
+                        "language": "en",
+                        "entity_id": "e5eed7f688efa59e"
+                    }
+                },
+                {
+                    "id": "9218257b5a5f1180",
+                    "name": "lack of light",
+                    "probability": 0.4334,
+                    "similar_images": [
+                        {
+                            "id": "755962909122a3a14b9e7ff9a941730f28cdb453",
+                            "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/755/962909122a3a14b9e7ff9a941730f28cdb453.jpg",
+                            "license_name": "CC BY-NC-SA 4.0",
+                            "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                            "citation": "FlowerChecker s.r.o.",
+                            "similarity": 0.29,
+                            "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/755/962909122a3a14b9e7ff9a941730f28cdb453.small.jpg"
+                        },
+                        {
+                            "id": "7d141c166e4f24b6bab79b9d81d4d7e506ea546e",
+                            "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/7d1/41c166e4f24b6bab79b9d81d4d7e506ea546e.jpg",
+                            "license_name": "CC BY-NC-SA 4.0",
+                            "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                            "citation": "FlowerChecker s.r.o.",
+                            "similarity": 0.273,
+                            "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/7d1/41c166e4f24b6bab79b9d81d4d7e506ea546e.small.jpg"
+                        }
+                    ],
+                    "details": {
+                        "language": "en",
+                        "entity_id": "9218257b5a5f1180"
+                    }
+                },
+                {
+                    "id": "dbdc1966896977dd",
+                    "name": "light excess",
+                    "probability": 0.3087,
+                    "similar_images": [
+                        {
+                            "id": "34897065c3ea4dc45505a4ff364a18170d9d66f6",
+                            "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/348/97065c3ea4dc45505a4ff364a18170d9d66f6.jpg",
+                            "license_name": "CC BY-NC-SA 4.0",
+                            "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                            "citation": "FlowerChecker s.r.o.",
+                            "similarity": 0.287,
+                            "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/348/97065c3ea4dc45505a4ff364a18170d9d66f6.small.jpg"
+                        },
+                        {
+                            "id": "fb5f83311b88765ed85a440a8d4ef4e68824b854",
+                            "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/fb5/f83311b88765ed85a440a8d4ef4e68824b854.jpg",
+                            "license_name": "CC BY-NC-SA 4.0",
+                            "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                            "citation": "FlowerChecker s.r.o.",
+                            "similarity": 0.238,
+                            "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/fb5/f83311b88765ed85a440a8d4ef4e68824b854.small.jpg"
+                        }
+                    ],
+                    "details": {
+                        "language": "en",
+                        "entity_id": "dbdc1966896977dd"
+                    }
+                },
+                {
+                    "id": "c6fbc333b227bd54",
+                    "name": "water deficiency",
+                    "probability": 0.2143,
+                    "similar_images": [
+                        {
+                            "id": "b6d968057066be8ee122f4b3c83f099066d1e2d8",
+                            "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/b6d/968057066be8ee122f4b3c83f099066d1e2d8.jpg",
+                            "license_name": "CC BY-NC-SA 4.0",
+                            "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                            "citation": "FlowerChecker s.r.o.",
+                            "similarity": 0.28,
+                            "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/b6d/968057066be8ee122f4b3c83f099066d1e2d8.small.jpg"
+                        },
+                        {
+                            "id": "ecd5cf7147f15a5324cbb822b54ab8a6af60deb5",
+                            "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/ecd/5cf7147f15a5324cbb822b54ab8a6af60deb5.jpg",
+                            "license_name": "CC BY-NC-SA 4.0",
+                            "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                            "citation": "FlowerChecker s.r.o.",
+                            "similarity": 0.278,
+                            "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/ecd/5cf7147f15a5324cbb822b54ab8a6af60deb5.small.jpg"
+                        }
+                    ],
+                    "details": {
+                        "language": "en",
+                        "entity_id": "c6fbc333b227bd54"
+                    }
+                },
+                {
+                    "id": "af7b78782de52bd8",
+                    "name": "senescence",
+                    "probability": 0.1199,
+                    "similar_images": [
+                        {
+                            "id": "935866115607367f6f50bb39c1cc073b007b0516",
+                            "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/935/866115607367f6f50bb39c1cc073b007b0516.jpg",
+                            "license_name": "CC BY-NC-SA 4.0",
+                            "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                            "citation": "FlowerChecker s.r.o.",
+                            "similarity": 0.264,
+                            "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/935/866115607367f6f50bb39c1cc073b007b0516.small.jpg"
+                        },
+                        {
+                            "id": "d04f0fceaf330f6e30164c34c94c2dcf2e60ad14",
+                            "url": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/d04/f0fceaf330f6e30164c34c94c2dcf2e60ad14.jpg",
+                            "license_name": "CC BY-NC-SA 4.0",
+                            "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                            "citation": "FlowerChecker s.r.o.",
+                            "similarity": 0.257,
+                            "url_small": "https://plant-id.ams3.cdn.digitaloceanspaces.com/similar_images/5/d04/f0fceaf330f6e30164c34c94c2dcf2e60ad14.small.jpg"
+                        }
+                    ],
+                    "details": {
+                        "language": "en",
+                        "entity_id": "af7b78782de52bd8"
+                    }
+                }
+            ],
+            "question": {
+                "text": "After watering, do the leaves remain wilted and soft instead of becoming firm?",
+                "translation": "After watering, do the leaves remain wilted and soft instead of becoming firm?",
+                "options": {
+                    "yes": {
+                        "suggestion_index": 1,
+                        "entity_id": "e5eed7f688efa59e",
+                        "name": "water excess or uneven watering",
+                        "translation": "Yes"
+                    },
+                    "no": {
+                        "suggestion_index": 0,
+                        "entity_id": "765b06482c4e4ae9",
+                        "name": "nutrient deficiency",
+                        "translation": "No"
+                    }
+                }
+            }
+        },
+        "is_healthy": {
+            "binary": false,
+            "threshold": 0.525,
+            "probability": 0.0420382022857666
+        },
+        "is_plant": {
+            "probability": 0.9330433,
+            "threshold": 0.5,
+            "binary": true
+        }
+    },
+    "status": "COMPLETED",
+    "sla_compliant_client": true,
+    "sla_compliant_system": true,
+    "created": 1746961471.544618,
+    "completed": 1746961471.938343
+}
