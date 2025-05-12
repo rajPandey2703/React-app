@@ -7,7 +7,7 @@ function ClosableAlert({messageData}) {
   return (
     <div className='center' style={{
           width:'500px',
-          height:'50px'
+          height:'80px'
         }}>
       {show && (
         <Alert variant={messageData.varient} onClose={() => setShow(false)} dismissible>
@@ -17,7 +17,7 @@ function ClosableAlert({messageData}) {
 
       {!show && (
         <Button onClick={() => setShow(true)} variant="outline-warning">
-          Show Alert Again
+          Show Message Again
         </Button>
       )}
     </div>
